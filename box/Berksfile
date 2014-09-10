@@ -1,0 +1,11 @@
+source "https://supermarket.getchef.com"
+
+cookbook 'apache2'
+cookbook 'openssl'
+cookbook 'apt'
+cookbook 'build-essential'
+cookbook 'mysql'
+cookbook 'php'
+cookbook 'memcached'
+cookbook 'app', path: './site-cookbooks/app'
+

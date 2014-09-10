@@ -1,0 +1,9 @@
+vagrant:
+  box: "hashicorp/precise64"
+  box_url: "http://files.vagrantup.com/precise64.box"
+  network_ip: "192.168.20.21"
+
+site:
+  hostname: "virtualbox.localhost"
+  site_root: "/var/www/virtualbox/public_html"
+  doc_root: "/var/www/virtualbox/public_html"
