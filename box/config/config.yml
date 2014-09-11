@@ -6,4 +6,4 @@ vagrant:
 site:
   name: "virtualbox"
   database_name: "nates_database"
-  database_password: "840av840av"
+  database_password: "password"
