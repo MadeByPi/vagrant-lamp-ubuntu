@@ -5,7 +5,7 @@
 # Copyright 2014, Nathan Green
 #
 
-# Make sure apt is up to date
+# Update apt
 include_recipe "apt"
 
 # Install app packages
