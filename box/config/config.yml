@@ -4,6 +4,6 @@ vagrant:
   network_ip: "192.168.20.21"
 
 site:
-  hostname: "virtualbox.localhost"
-  site_root: "/var/www/virtualbox/public_html"
-  doc_root: "/var/www/virtualbox/public_html"
+  name: "virtualbox"
+  database_name: "nates_database"
+  database_password: "840av840av"
